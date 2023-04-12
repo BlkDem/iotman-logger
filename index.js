@@ -1,6 +1,5 @@
 const mqtt = require('mqtt')
 const mysql = require('mysql');
-// const config = require('./config.js');
 
 const env = require("dotenv").config();
 
