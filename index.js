@@ -70,7 +70,7 @@ function logInsert(logData) {
                 if (error) {
                     console.log('Inserting error: ', results);
                 }
-                console.log('Inserted log: ', results);
+                console.log('Inserted log: ', results, logData);
         })
 
     } catch (error) {
