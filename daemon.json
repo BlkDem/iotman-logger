@@ -2,5 +2,6 @@
     "uid": "mqtt-service",
     "append": true,
     "watch": true,
+    "instances": 1,
     "script": "index.js"
 }
