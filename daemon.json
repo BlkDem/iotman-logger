@@ -1,0 +1,6 @@
+{
+    "uid": "mqtt-service",
+    "append": true,
+    "watch": true,
+    "script": "index.js"
+}
